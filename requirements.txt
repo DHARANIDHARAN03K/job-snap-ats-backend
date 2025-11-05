@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+python-multipart
+google-genai>=0.14.0  # Force a recent, stable version of the SDK
+pydantic
